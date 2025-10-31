@@ -103,5 +103,6 @@ public class Kasir {
         System.out.println("Bayar     : Rp" + bayar);
         System.out.println("Kembalian : Rp" + kembalian);
         System.out.println("=== TERIMA KASIH ===");
+        System.out.println("percobaan");
     }
 }
